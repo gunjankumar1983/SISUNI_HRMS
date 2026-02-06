@@ -1,0 +1,8 @@
+
+{
+  "name": "SisuniHRMS Management - Advanced HRMS",
+  "description": "A comprehensive HR Management System featuring employee directory, attendance tracking, leave management, and AI-powered workforce insights powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
